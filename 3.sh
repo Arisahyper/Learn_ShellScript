@@ -8,4 +8,3 @@ echo $x
 readonly y="const"
 echo $y
 # y="無理" # line 10: y: readonly variable
-
